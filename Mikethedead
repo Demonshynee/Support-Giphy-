@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Support Form</title>
+</head>
+<body>
+
+<form action="mailto:support@giphy.com" method="post" enctype="text/plain">
+    <input type="hidden" name="subject" value="Urgent Appeal for Mikethedead's Giphy Account Reinstatement">
+    <textarea name="body" rows="10" cols="30">
+        Dear Giphy Support Team,
+
+        I hope this email finds you well. I am writing on behalf of the dedicated followers of Mikethedead, a talented Giphy artist whose account recently faced an unexpected suspension.
+
+        He has amassed over 7 billion gif views on Giphy, showcasing an exceptional talent for creating funny, entertaining, and highly shareable content. His gifs have become an integral part of our online interactions, especially since Instagram introduced the feature to comment with gifs in 2023.
+
+        We, the undersigned, are among his 20,000 followers on Instagram who value and appreciate the joy his gifs bring to our online experience. They not only add humor and entertainment to our conversations but also serve as a unique and expressive way to communicate on social media.
+
+        We believe that his gifs have become an essential part of the online community, making interactions more enjoyable and creating a positive atmosphere. We cannot imagine our Instagram feeds without his creative contributions.
+
+        We kindly request you to review his account suspension and consider reinstating it at the earliest convenience. Your prompt attention to this matter is highly appreciated.
+
+        Thank you for your time and understanding.
+
+        Sincerely,
+        [Your Name]
+    </textarea>
+    <br>
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
